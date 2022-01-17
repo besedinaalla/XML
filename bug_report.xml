@@ -1,1 +1,17 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <ID>B1</ID>
+  <Project_Name>Abracadabra</Project_Name>
+  <Version>1.0</Version>
+  <Component>Shopping cart</Component>
+  <Environment>Google Chrome Версия 97.0.4692.71</Environment>
+  <Title>The Item hasn't added to shopping cart</Title>
+  <Steps>1.Choose the item 2.Press the Buttom 'Buy'3.Check the cart</Steps>
+  <Expected_result>The choosen item has added to shopping cart</Expected_result>
+  <Actual_result>The Item hasn't add to shopping cart</Actual_result>
+  <Priority>High</Priority>
+  <Severity>Critical</Severity>
+  <Reported_by>Besedina Alla</Reported_by>
+  <Assigned_by>Ksendzov Vadim</Assigned_by>",
+  <Status>Open</Status>
+</bug_report>
